@@ -1,4 +1,4 @@
-- 👋 Hi, I’m /kavan Prajapati, Computer Science Student
+- 👋 Hi, I’m kavan Prajapati, Computer Science Student
 - 👀 I’m interested in hot technologies like AI & Blockchain
 - 🌱 I’m currently learning Data Science
 - 📫 Kavanprajapati96@gmail.com
